@@ -1,0 +1,6 @@
+{
+  "name": "NICAISE.A - Montres de Luxe",
+  "description": "Plateforme e-commerce haut de gamme dédiée aux garde-temps d'exception. Le temps devient une signature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
